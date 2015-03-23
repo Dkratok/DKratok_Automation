@@ -1,0 +1,12 @@
+C:\Users\dzmitry_kratok\Dropbox\dot_net\StringManager\StringManager\bin\Debug\StringManager.exe.config
+C:\Users\dzmitry_kratok\Dropbox\dot_net\StringManager\StringManager\bin\Debug\StringManager.exe
+C:\Users\dzmitry_kratok\Dropbox\dot_net\StringManager\StringManager\bin\Debug\StringManager.pdb
+C:\Users\dzmitry_kratok\Dropbox\dot_net\StringManager\StringManager\obj\Debug\StringManager.csprojResolveAssemblyReference.cache
+C:\Users\dzmitry_kratok\Dropbox\dot_net\StringManager\StringManager\obj\Debug\StringManager.exe
+C:\Users\dzmitry_kratok\Dropbox\dot_net\StringManager\StringManager\obj\Debug\StringManager.pdb
+C:\Users\GALINA\Dropbox\dot_net\StringManager\StringManager\bin\Debug\StringManager.exe.config
+C:\Users\GALINA\Dropbox\dot_net\StringManager\StringManager\obj\Debug\StringManager.exe
+C:\Users\GALINA\Dropbox\dot_net\StringManager\StringManager\obj\Debug\StringManager.pdb
+C:\Users\GALINA\Dropbox\dot_net\StringManager\StringManager\bin\Debug\StringManager.exe
+C:\Users\GALINA\Dropbox\dot_net\StringManager\StringManager\bin\Debug\StringManager.pdb
+C:\Users\GALINA\Dropbox\dot_net\StringManager\StringManager\obj\Debug\StringManager.csprojResolveAssemblyReference.cache

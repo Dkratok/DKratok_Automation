@@ -1,0 +1,5 @@
+C:\Users\GALINA\Dropbox\dot_net\MatrixMultiplicate\MatrixMultiplicate\bin\Debug\MatrixMultiplicate.exe.config
+C:\Users\GALINA\Dropbox\dot_net\MatrixMultiplicate\MatrixMultiplicate\bin\Debug\MatrixMultiplicate.exe
+C:\Users\GALINA\Dropbox\dot_net\MatrixMultiplicate\MatrixMultiplicate\bin\Debug\MatrixMultiplicate.pdb
+C:\Users\GALINA\Dropbox\dot_net\MatrixMultiplicate\MatrixMultiplicate\obj\Debug\MatrixMultiplicate.exe
+C:\Users\GALINA\Dropbox\dot_net\MatrixMultiplicate\MatrixMultiplicate\obj\Debug\MatrixMultiplicate.pdb

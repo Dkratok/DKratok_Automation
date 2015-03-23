@@ -1,0 +1,12 @@
+C:\Users\GALINA\Dropbox\dot_net\Task1_dotnet\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\GALINA\Dropbox\dot_net\Task1_dotnet\Calculator\bin\Debug\Calculator.exe
+C:\Users\GALINA\Dropbox\dot_net\Task1_dotnet\Calculator\bin\Debug\Calculator.pdb
+C:\Users\GALINA\Dropbox\dot_net\Task1_dotnet\Calculator\obj\Debug\Calculator.exe
+C:\Users\GALINA\Dropbox\dot_net\Task1_dotnet\Calculator\obj\Debug\Calculator.pdb
+C:\Users\GALINA\Dropbox\dot_net\Task1_dotnet\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\dzmitry_kratok\Dropbox\dot_net\Task1_dotnet\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\dzmitry_kratok\Dropbox\dot_net\Task1_dotnet\Calculator\obj\Debug\Calculator.exe
+C:\Users\dzmitry_kratok\Dropbox\dot_net\Task1_dotnet\Calculator\obj\Debug\Calculator.pdb
+C:\Users\dzmitry_kratok\Dropbox\dot_net\Task1_dotnet\Calculator\bin\Debug\Calculator.exe
+C:\Users\dzmitry_kratok\Dropbox\dot_net\Task1_dotnet\Calculator\bin\Debug\Calculator.pdb
+C:\Users\dzmitry_kratok\Dropbox\dot_net\Task1_dotnet\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
