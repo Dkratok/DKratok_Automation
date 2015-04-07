@@ -1,0 +1,12 @@
+C:\Users\dzmitry_kratok\Dropbox\dot_net\RivalCollections\RivalCollections\bin\Debug\RivalCollections.exe.config
+C:\Users\dzmitry_kratok\Dropbox\dot_net\RivalCollections\RivalCollections\bin\Debug\RivalCollections.exe
+C:\Users\dzmitry_kratok\Dropbox\dot_net\RivalCollections\RivalCollections\bin\Debug\RivalCollections.pdb
+C:\Users\dzmitry_kratok\Dropbox\dot_net\RivalCollections\RivalCollections\obj\Debug\RivalCollections.csprojResolveAssemblyReference.cache
+C:\Users\dzmitry_kratok\Dropbox\dot_net\RivalCollections\RivalCollections\obj\Debug\RivalCollections.exe
+C:\Users\dzmitry_kratok\Dropbox\dot_net\RivalCollections\RivalCollections\obj\Debug\RivalCollections.pdb
+C:\Users\GALINA\Dropbox\dot_net\RivalCollections\RivalCollections\bin\Debug\RivalCollections.exe.config
+C:\Users\GALINA\Dropbox\dot_net\RivalCollections\RivalCollections\obj\Debug\RivalCollections.exe
+C:\Users\GALINA\Dropbox\dot_net\RivalCollections\RivalCollections\obj\Debug\RivalCollections.pdb
+C:\Users\GALINA\Dropbox\dot_net\RivalCollections\RivalCollections\bin\Debug\RivalCollections.exe
+C:\Users\GALINA\Dropbox\dot_net\RivalCollections\RivalCollections\bin\Debug\RivalCollections.pdb
+C:\Users\GALINA\Dropbox\dot_net\RivalCollections\RivalCollections\obj\Debug\RivalCollections.csprojResolveAssemblyReference.cache
