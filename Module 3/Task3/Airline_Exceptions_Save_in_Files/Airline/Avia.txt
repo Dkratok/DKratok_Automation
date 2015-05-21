@@ -1,0 +1,28 @@
+Make=TU-164 Board Number=T456Y Passenger Qquantity=170 Max Flight Range=6000 Max Flight Height=12100
+
+Make=JAC-40 Board Number=SF573 Passenger Qquantity=36 Max Flight Range=2000 Max Flight Height=6000
+
+Make=Boeing 757 Board Number=BG459 Passenger Qquantity=220 Max Flight Range=7800 Max Flight Height=12800
+
+Make=Airbus A320 Board Number=A4FR5 Passenger Qquantity=120 Max Flight Range=6000 Max Flight Height=12000
+
+Make=Airbus A320 Board Number=A4FR6 Passenger Qquantity=130 Max Flight Range=6000 Max Flight Height=12000
+
+Max Cargo Load= 37, Max Load = 141, Crew = 4, Flight Range = 7800, Max Fligh Height= 12200Make = Airbus A400M, Board Number = G456Y, Military = False
+
+Max Cargo Load= 60, Max Load = 120, Crew = 7, Flight Range = 5200, Max Fligh Height= 10000Make = AN-22, Board Number = SF573, Military = False
+
+Max Cargo Load= 55, Max Load = 210, Crew = 5, Flight Range = 6000, Max Fligh Height= 11000Make = IL-76, Board Number = G456Y, Military = False
+
+Max Cargo Load= 55, Max Load = 300, Crew = 5, Flight Range = 6000, Max Fligh Height= 11000Make = IL-76, Board Number = G456Y, Military = False
+
+Max Cargo Load= 55, Max Load = 500, Crew = 5, Flight Range = 6000, Max Fligh Height= 11000Make = IL-76, Board Number = G458Y, Military = False
+
+Max Cargo Load= 55, Max Load = 400, Crew = 5, Flight Range = 6000, Max Fligh Height= 11000Make = IL-76, Board Number = G457Y, Military = False
+
+Make= MI-8, Passengers= 25, Max Cargo Load= 15, Max Load = 11, Crew = 3, Flight Range = 500, Max Fligh Height= 5000, Board Number = M767H1, Military = False
+
+Make= MI-8, Passengers= 27, Max Cargo Load= 17, Max Load = 11, Crew = 3, Flight Range = 550, Max Fligh Height= 5000, Board Number = M767H2, Military = False
+
+Make= MI-24, Passengers= 8, Max Cargo Load= 4, Max Load = 15, Crew = 3, Flight Range = 600, Max Fligh Height= 4500, Board Number = M34RF1, Military = True
+

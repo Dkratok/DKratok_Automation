@@ -1,0 +1,7 @@
+There are no any airplanes with this parameters
+Error: Passenger Quatity, Max Flight Range, Flight Height must be integer and not NULL!
+Max Cargo Load= 37, Max Load = 141, Crew = 4, Flight Range = 7800, Max Fligh Height= 12200Make = Airbus A400M, Board Number = G456Y, Military = False
+
+
+There are no any airplanes with this parameters
+There are no any airplanes with this parameters
