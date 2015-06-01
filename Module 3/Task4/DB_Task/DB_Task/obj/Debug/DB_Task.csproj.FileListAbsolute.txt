@@ -1,0 +1,6 @@
+D:\git_DK\DKratok_Automation\Module 3\Task4\DB_Task\DB_Task\bin\Debug\DB_Task.exe.config
+D:\git_DK\DKratok_Automation\Module 3\Task4\DB_Task\DB_Task\bin\Debug\DB_Task.exe
+D:\git_DK\DKratok_Automation\Module 3\Task4\DB_Task\DB_Task\bin\Debug\DB_Task.pdb
+D:\git_DK\DKratok_Automation\Module 3\Task4\DB_Task\DB_Task\obj\Debug\DB_Task.csprojResolveAssemblyReference.cache
+D:\git_DK\DKratok_Automation\Module 3\Task4\DB_Task\DB_Task\obj\Debug\DB_Task.exe
+D:\git_DK\DKratok_Automation\Module 3\Task4\DB_Task\DB_Task\obj\Debug\DB_Task.pdb

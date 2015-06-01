@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAviaModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AviaModel xsi:type="Helicopter">
+    <Crew>3</Crew>
+    <Flightrange>500</Flightrange>
+    <MaxFlightHeight>5000</MaxFlightHeight>
+    <Make>MI-8</Make>
+    <BoardNum>M767H1</BoardNum>
+    <IsMilitary>false</IsMilitary>
+    <MaxLoad>11</MaxLoad>
+    <Passengers>25</Passengers>
+    <MaxCargoLoad>15</MaxCargoLoad>
+  </AviaModel>
+  <AviaModel xsi:type="Helicopter">
+    <Crew>3</Crew>
+    <Flightrange>550</Flightrange>
+    <MaxFlightHeight>5000</MaxFlightHeight>
+    <Make>MI-8</Make>
+    <BoardNum>M767H2</BoardNum>
+    <IsMilitary>false</IsMilitary>
+    <MaxLoad>11</MaxLoad>
+    <Passengers>27</Passengers>
+    <MaxCargoLoad>17</MaxCargoLoad>
+  </AviaModel>
+  <AviaModel xsi:type="Helicopter">
+    <Crew>3</Crew>
+    <Flightrange>600</Flightrange>
+    <MaxFlightHeight>4500</MaxFlightHeight>
+    <Make>MI-24</Make>
+    <BoardNum>M34RF1</BoardNum>
+    <IsMilitary>true</IsMilitary>
+    <MaxLoad>15</MaxLoad>
+    <Passengers>8</Passengers>
+    <MaxCargoLoad>4</MaxCargoLoad>
+  </AviaModel>
+  <AviaModel xsi:type="PassPlane">
+    <Crew>4</Crew>
+    <Flightrange>2000</Flightrange>
+    <MaxFlightHeight>6000</MaxFlightHeight>
+    <Make>JAC-40</Make>
+    <BoardNum>SF573</BoardNum>
+    <IsMilitary>false</IsMilitary>
+    <MaxLoad>17</MaxLoad>
+    <Passengers>36</Passengers>
+    <FirstClassPassengers>0</FirstClassPassengers>
+    <BusinessClassPassengers>0</BusinessClassPassengers>
+  </AviaModel>
+  <AviaModel xsi:type="PassPlane">
+    <Crew>3</Crew>
+    <Flightrange>6000</Flightrange>
+    <MaxFlightHeight>12000</MaxFlightHeight>
+    <Make>Airbus A320</Make>
+    <BoardNum>A4FR5</BoardNum>
+    <IsMilitary>false</IsMilitary>
+    <MaxLoad>70</MaxLoad>
+    <Passengers>120</Passengers>
+    <FirstClassPassengers>40</FirstClassPassengers>
+    <BusinessClassPassengers>20</BusinessClassPassengers>
+  </AviaModel>
+  <AviaModel xsi:type="PassPlane">
+    <Crew>3</Crew>
+    <Flightrange>6000</Flightrange>
+    <MaxFlightHeight>12000</MaxFlightHeight>
+    <Make>Airbus A320</Make>
+    <BoardNum>A4FR6</BoardNum>
+    <IsMilitary>false</IsMilitary>
+    <MaxLoad>70</MaxLoad>
+    <Passengers>130</Passengers>
+    <FirstClassPassengers>40</FirstClassPassengers>
+    <BusinessClassPassengers>30</BusinessClassPassengers>
+  </AviaModel>
+  <AviaModel xsi:type="PassPlane">
+    <Crew>4</Crew>
+    <Flightrange>6000</Flightrange>
+    <MaxFlightHeight>12100</MaxFlightHeight>
+    <Make>TU-164</Make>
+    <BoardNum>T456Y</BoardNum>
+    <IsMilitary>false</IsMilitary>
+    <MaxLoad>100</MaxLoad>
+    <Passengers>170</Passengers>
+    <FirstClassPassengers>70</FirstClassPassengers>
+    <BusinessClassPassengers>0</BusinessClassPassengers>
+  </AviaModel>
+  <AviaModel xsi:type="PassPlane">
+    <Crew>2</Crew>
+    <Flightrange>7800</Flightrange>
+    <MaxFlightHeight>12800</MaxFlightHeight>
+    <Make>Boeing 757</Make>
+    <BoardNum>BG459</BoardNum>
+    <IsMilitary>false</IsMilitary>
+    <MaxLoad>116</MaxLoad>
+    <Passengers>220</Passengers>
+    <FirstClassPassengers>50</FirstClassPassengers>
+    <BusinessClassPassengers>30</BusinessClassPassengers>
+  </AviaModel>
+  <AviaModel xsi:type="CargoAirplane">
+    <Crew>7</Crew>
+    <Flightrange>5200</Flightrange>
+    <MaxFlightHeight>10000</MaxFlightHeight>
+    <Make>AN-22</Make>
+    <BoardNum>SF573</BoardNum>
+    <IsMilitary>false</IsMilitary>
+    <MaxLoad>120</MaxLoad>
+    <MaxCargoLoad>60</MaxCargoLoad>
+  </AviaModel>
+  <AviaModel xsi:type="CargoAirplane">
+    <Crew>4</Crew>
+    <Flightrange>7800</Flightrange>
+    <MaxFlightHeight>12200</MaxFlightHeight>
+    <Make>Airbus A400M</Make>
+    <BoardNum>G456Y</BoardNum>
+    <IsMilitary>false</IsMilitary>
+    <MaxLoad>141</MaxLoad>
+    <MaxCargoLoad>37</MaxCargoLoad>
+  </AviaModel>
+  <AviaModel xsi:type="CargoAirplane">
+    <Crew>5</Crew>
+    <Flightrange>6000</Flightrange>
+    <MaxFlightHeight>11000</MaxFlightHeight>
+    <Make>IL-76</Make>
+    <BoardNum>G456Y</BoardNum>
+    <IsMilitary>false</IsMilitary>
+    <MaxLoad>210</MaxLoad>
+    <MaxCargoLoad>55</MaxCargoLoad>
+  </AviaModel>
+  <AviaModel xsi:type="CargoAirplane">
+    <Crew>5</Crew>
+    <Flightrange>6000</Flightrange>
+    <MaxFlightHeight>11000</MaxFlightHeight>
+    <Make>IL-76</Make>
+    <BoardNum>G456Y</BoardNum>
+    <IsMilitary>false</IsMilitary>
+    <MaxLoad>300</MaxLoad>
+    <MaxCargoLoad>55</MaxCargoLoad>
+  </AviaModel>
+  <AviaModel xsi:type="CargoAirplane">
+    <Crew>5</Crew>
+    <Flightrange>6000</Flightrange>
+    <MaxFlightHeight>11000</MaxFlightHeight>
+    <Make>IL-76</Make>
+    <BoardNum>G457Y</BoardNum>
+    <IsMilitary>false</IsMilitary>
+    <MaxLoad>400</MaxLoad>
+    <MaxCargoLoad>55</MaxCargoLoad>
+  </AviaModel>
+  <AviaModel xsi:type="CargoAirplane">
+    <Crew>5</Crew>
+    <Flightrange>6000</Flightrange>
+    <MaxFlightHeight>11000</MaxFlightHeight>
+    <Make>IL-76</Make>
+    <BoardNum>G458Y</BoardNum>
+    <IsMilitary>false</IsMilitary>
+    <MaxLoad>500</MaxLoad>
+    <MaxCargoLoad>55</MaxCargoLoad>
+  </AviaModel>
+</ArrayOfAviaModel>
