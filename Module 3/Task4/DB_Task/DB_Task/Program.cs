@@ -18,22 +18,22 @@ namespace DataBaseAccess
             string cnStr = ConfigurationManager.AppSettings["cnStr"];
 
             //Select data 
-            using (var cn = new SqlConnection())
-            {
-                Console.WriteLine("Connection object --> " + cn.GetType().Name);
-                cn.ConnectionString = cnStr;
-                cn.Open();
-                DisplayTop5CustomersUsingDirectRead(cn);
-            }
+            //using (var cn = new SqlConnection())
+            //{
+            //    Console.WriteLine("Connection object --> " + cn.GetType().Name);
+            //    cn.ConnectionString = cnStr;
+            //    cn.Open();
+            //    DisplayTop5CustomersUsingDirectRead(cn);
+            //}
 
             //Delete EmployeeTerritories
-            using (var cn = new SqlConnection())
-            {
-                cn.ConnectionString = cnStr;
-                cn.Open();
-                int deleted = DeleteEmployeeTerritories(9, 48304, cn);
-                Console.WriteLine("Number of deleted rows: " + deleted);
-            }
+            //using (var cn = new SqlConnection())
+            //{
+            //    cn.ConnectionString = cnStr;
+            //    cn.Open();
+            //    int deleted = DeleteEmployeeTerritories(9, 48304, cn);
+            //    Console.WriteLine("Number of deleted rows: " + deleted);
+            //}
 
 
             //Update Customers
@@ -41,29 +41,29 @@ namespace DataBaseAccess
             {
                 cn.ConnectionString = cnStr;
                 cn.Open();
-                int updated = UpdateCustomers("Chop-suey", "Chop-suey Chinese", cn);
+                int updated = UpdateCustomers("Chop-suey1", "Chop-suey", cn);
                 Console.WriteLine("Number of updated rows: " + updated);
             }
 
 
 
-            //Insert a customers
-            using (var cn = new SqlConnection())
-            {          
-                cn.ConnectionString = cnStr;
-                cn.Open();
-                int inserted = InsertCustomers("Cola", "ColaComp", "JohnA", "Owner", "Lenina28", "Minsk", "Minsk", "4576", "Belarus", "0300074321", "0300074321", cn);
-                Console.WriteLine("Number of inserted rows: " + inserted);
-            }
+            ////Insert a customers
+            //using (var cn = new SqlConnection())
+            //{          
+            //    cn.ConnectionString = cnStr;
+            //    cn.Open();
+            //    int inserted = InsertCustomers("Cola", "ColaComp", "JohnA", "Owner", "Lenina28", "Minsk", "Minsk", "4576", "Belarus", "0300074321", "0300074321", cn);
+            //    Console.WriteLine("Number of inserted rows: " + inserted);
+            //}
 
-             //Display data using stored procedure
-            using (var cn = new SqlConnection())
-            {
-                Console.WriteLine("Connection object --> " + cn.GetType().Name);
-                cn.ConnectionString = cnStr;
-                cn.Open();
-                var dt = GetSalesbyYearUsingStorProc(cn, "2000-05-05", "2015-05-05");
-            }
+            // //Display data using stored procedure
+            //using (var cn = new SqlConnection())
+            //{
+            //    Console.WriteLine("Connection object --> " + cn.GetType().Name);
+            //    cn.ConnectionString = cnStr;
+            //    cn.Open();
+            //    var dt = GetSalesbyYearUsingStorProc(cn, "2000-05-05", "2015-05-05");
+            //}
 
             Console.ReadLine();
         }

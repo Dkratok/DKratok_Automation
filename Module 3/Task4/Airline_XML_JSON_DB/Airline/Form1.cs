@@ -43,22 +43,15 @@ namespace Airline
 
             List<AviaModel> DeserializedPlanes = Methods.XMLSerialization.DeserializeFromXML();
             
-            //foreach (List<AviaModel> DeserializedPlanes in AviaModel.planes)
-            //{
-            //    str = str + "Make=" + Deserilizeairplanes.Make.ToString() + " Board Number=" + Deserilizeairplanes.BoardNum.ToString() + " Max Load=" + Deserilizeairplanes.MaxLoad.ToString() + "\n";
-            //};
-            //this.richTextBox1.Text = "Object 'planes' has been serialized and deserialized"+"\n"+str;
-            //Deserialization the collection "planes" to file planes.dat
-           
                
 
             //output to the Form
-            //string str = "";
-            //foreach (AviaModel deserializaAviamodel in AviaModel.planes)
-            //{
-            //    str = str + "Make=" + deserializaAviamodel.Make.ToString() + " Board Number=" + deserializaAviamodel.BoardNum.ToString() + " Max Load=" + deserializaAviamodel.MaxLoad.ToString() + "\n";
-            //};
-            //this.richTextBox1.Text = "Object 'planes' has been serialized and deserialized"+"\n"+str;
+            string str = "";
+            foreach (AviaModel deserializaAviamodel in AviaModel.planes)
+            {
+                str = str + "Make=" + deserializaAviamodel.Make.ToString() + " Board Number=" + deserializaAviamodel.BoardNum.ToString() + " Max Load=" + deserializaAviamodel.MaxLoad.ToString() + "\n";
+            };
+            this.richTextBox1.Text = "Object 'planes' has been serialized and deserialized"+"\n"+str;
              }
              
 
@@ -218,13 +211,13 @@ namespace Airline
             Methods.JSONSerealization jsonserial = new Methods.JSONSerealization();
             jsonserial.JSONSerealiz("../../JSON.JSON");
             this.richTextBox1.Text = "Object 'planes' has been serialized in JSON and deserialized" + "\n"+jsonserial.JSONDeserealiz("../../JSON.JSON").ToString();
-            
-            //     string str = "";
-            //     foreach (AviaModel jsondeserializaAviamodel in (AviaModel)AM)
-            //{
-            //    str = str + "Make=" + jsondeserializaAviamodel.Make.ToString() + " Board Number=" + jsondeserializaAviamodel.BoardNum.ToString() + " Max Load=" + jsondeserializaAviamodel.MaxLoad.ToString() + "\n";
-            //};
-            this.richTextBox1.Text = "Object 'planes' has been serialized in JSON and deserialized" + "\n" ;
+
+            string str = "";
+            foreach (AviaModel jsondeserializaAviamodel in AviaModel.planes)
+            {
+                str = str + "Make=" + jsondeserializaAviamodel.Make.ToString() + " Board Number=" + jsondeserializaAviamodel.BoardNum.ToString() + " Max Load=" + jsondeserializaAviamodel.MaxLoad.ToString() + "\n";
+            };
+            this.richTextBox1.Text = "Object 'planes' has been serialized in JSON and deserialized" + "\n" + str;
         }
     }
 }

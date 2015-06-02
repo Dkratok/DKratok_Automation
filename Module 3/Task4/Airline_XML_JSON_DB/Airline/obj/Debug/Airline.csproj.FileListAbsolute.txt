@@ -49,3 +49,15 @@ C:\Users\dzmitry_kratok\Dropbox\dot_net\Airline_XML_JSON_DB\Airline\obj\Debug\Ai
 C:\Users\dzmitry_kratok\Dropbox\dot_net\Airline_XML_JSON_DB\Airline\obj\Debug\Airline.Form1.resources
 C:\Users\dzmitry_kratok\Dropbox\dot_net\Airline_XML_JSON_DB\Airline\obj\Debug\Airline.Properties.Resources.resources
 C:\Users\dzmitry_kratok\Dropbox\dot_net\Airline_XML_JSON_DB\Airline\obj\Debug\Airline.csproj.GenerateResource.Cache
+D:\git_DK\DKratok_Automation\Module 3\Task4\Airline_XML_JSON_DB\Airline\bin\Debug\Airline.exe.config
+D:\git_DK\DKratok_Automation\Module 3\Task4\Airline_XML_JSON_DB\Airline\obj\Debug\Airline.exe
+D:\git_DK\DKratok_Automation\Module 3\Task4\Airline_XML_JSON_DB\Airline\obj\Debug\Airline.pdb
+D:\git_DK\DKratok_Automation\Module 3\Task4\Airline_XML_JSON_DB\Airline\bin\Debug\Airline.exe
+D:\git_DK\DKratok_Automation\Module 3\Task4\Airline_XML_JSON_DB\Airline\bin\Debug\Airline.pdb
+D:\git_DK\DKratok_Automation\Module 3\Task4\Airline_XML_JSON_DB\Airline\bin\Debug\Newtonsoft.Json.dll
+D:\git_DK\DKratok_Automation\Module 3\Task4\Airline_XML_JSON_DB\Airline\bin\Debug\Newtonsoft.Json.pdb
+D:\git_DK\DKratok_Automation\Module 3\Task4\Airline_XML_JSON_DB\Airline\bin\Debug\Newtonsoft.Json.xml
+D:\git_DK\DKratok_Automation\Module 3\Task4\Airline_XML_JSON_DB\Airline\obj\Debug\Airline.csprojResolveAssemblyReference.cache
+D:\git_DK\DKratok_Automation\Module 3\Task4\Airline_XML_JSON_DB\Airline\obj\Debug\Airline.Form1.resources
+D:\git_DK\DKratok_Automation\Module 3\Task4\Airline_XML_JSON_DB\Airline\obj\Debug\Airline.Properties.Resources.resources
+D:\git_DK\DKratok_Automation\Module 3\Task4\Airline_XML_JSON_DB\Airline\obj\Debug\Airline.csproj.GenerateResource.Cache

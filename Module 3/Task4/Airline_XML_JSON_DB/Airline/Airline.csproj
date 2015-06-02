@@ -52,7 +52,6 @@
     <Compile Include="Methods\TicketsCalc.cs" />
     <Compile Include="Methods\XMLSerialization.cs" />
     <Compile Include="Models\AviaModel.cs" />
-    <Compile Include="Aviapark.cs" />
     <Compile Include="Models\CargoAirplane.cs" />
     <Compile Include="Models\Helicopter.cs" />
     <Compile Include="Form1.cs">
