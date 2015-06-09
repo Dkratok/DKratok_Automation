@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\dzmitry_kratok\Dropbox\dot_net\_Webdriver_Task1\AppTest\bin\Debug\AppTest.dll" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-06-09" time="16:10:45">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\WINDOWS\system32" machine-name="EPBYMINW2872" user="Dzmitry_Kratok" user-domain="MINSK" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\dzmitry_kratok\Dropbox\dot_net\_Webdriver_Task1\AppTest\bin\Debug\AppTest.dll" executed="True" result="Failure" success="False" time="61.685" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="AppTest" executed="True" result="Failure" success="False" time="61.669" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Pages" executed="True" result="Failure" success="False" time="61.668" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="MailingPage" executed="True" result="Failure" success="False" time="61.666" asserts="0">
+                <results>
+                  <test-case name="AppTest.Pages.MailingPage.MailOpen" executed="True" result="Failure" success="False" time="52.481" asserts="2">
+                    <failure>
+                      <message><![CDATA[  Subject is not found
+  Expected string length 8 but was 0. Strings differ at index 0.
+  Expected: "Autotest"
+  But was:  <string.Empty>
+  -----------^
+]]></message>
+                      <stack-trace><![CDATA[at AppTest.Pages.MailingPage.MailOpen() in c:\Users\dzmitry_kratok\Dropbox\dot_net\_Webdriver_Task1\AppTest\Pages\MailingPage.cs:line 94
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

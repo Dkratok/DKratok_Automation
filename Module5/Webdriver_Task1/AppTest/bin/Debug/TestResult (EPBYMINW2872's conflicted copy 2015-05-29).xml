@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\dzmitry_kratok\Dropbox\dot_net\Webdriver_Task1\AppTest\bin\Debug\AppTest.dll" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-05-28" time="18:01:04">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\WINDOWS\system32" machine-name="EPBYMINW2872" user="Dzmitry_Kratok" user-domain="MINSK" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\dzmitry_kratok\Dropbox\dot_net\Webdriver_Task1\AppTest\bin\Debug\AppTest.dll" executed="True" result="Failure" success="False" time="24.564" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="AppTest" executed="True" result="Failure" success="False" time="24.547" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="LoginPage" executed="True" result="Failure" success="False" time="24.545" asserts="0">
+            <results>
+              <test-case name="AppTest.LoginPage.isLogin" executed="True" result="Error" success="False" time="24.457" asserts="0">
+                <failure>
+                  <message><![CDATA[System.ArgumentNullException : input cannot be null
+Parameter name: input]]></message>
+                  <stack-trace><![CDATA[at OpenQA.Selenium.Support.UI.DefaultWait`1..ctor(T input, IClock clock) in c:\Projects\webdriver\dotnet\src\support\UI\DefaultWait.cs:line 62
+at OpenQA.Selenium.Support.UI.WebDriverWait..ctor(IClock clock, IWebDriver driver, TimeSpan timeout, TimeSpan sleepInterval) in c:\Projects\webdriver\dotnet\src\support\UI\WebDriverWait.cs:line 53
+at OpenQA.Selenium.Support.UI.WebDriverWait..ctor(IWebDriver driver, TimeSpan timeout) in c:\Projects\webdriver\dotnet\src\support\UI\WebDriverWait.cs:line 41
+at AppTest.CommonMethods.WaitForElementHasText(By by, String strText, Int32 iSeconds) in c:\Users\dzmitry_kratok\Dropbox\dot_net\Webdriver_Task1\AppTest\CommonMethods.cs:line 26
+at AppTest.LoginPage.isLogin() in c:\Users\dzmitry_kratok\Dropbox\dot_net\Webdriver_Task1\AppTest\Pages\LoginPage.cs:line 49
+]]></stack-trace>
+                </failure>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

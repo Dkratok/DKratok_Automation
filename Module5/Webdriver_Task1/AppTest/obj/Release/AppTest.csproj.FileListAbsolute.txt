@@ -1,0 +1,15 @@
+D:\work\Trainings\AppTest\AppTest\bin\Release\AppTest.dll
+D:\work\Trainings\AppTest\AppTest\bin\Release\AppTest.pdb
+D:\work\Trainings\AppTest\AppTest\bin\Release\NMock2.dll
+D:\work\Trainings\AppTest\AppTest\bin\Release\nunit.core.dll
+D:\work\Trainings\AppTest\AppTest\bin\Release\nunit.core.interfaces.dll
+D:\work\Trainings\AppTest\AppTest\bin\Release\nunit.framework.dll
+D:\work\Trainings\AppTest\AppTest\bin\Release\Selenium.WebDriverBackedSelenium.dll
+D:\work\Trainings\AppTest\AppTest\bin\Release\ThoughtWorks.Selenium.Core.dll
+D:\work\Trainings\AppTest\AppTest\bin\Release\WebDriver.Common.Tests.dll
+D:\work\Trainings\AppTest\AppTest\bin\Release\WebDriver.dll
+D:\work\Trainings\AppTest\AppTest\bin\Release\WebDriver.Remote.Tests.dll
+D:\work\Trainings\AppTest\AppTest\bin\Release\WebDriver.Support.dll
+D:\work\Trainings\AppTest\AppTest\obj\Release\AppTest.dll
+D:\work\Trainings\AppTest\AppTest\obj\Release\AppTest.pdb
+D:\work\Trainings\AppTest\AppTest\obj\Release\AppTest.csprojResolveAssemblyReference.cache
