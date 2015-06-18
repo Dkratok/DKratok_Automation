@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Galina\Dropbox\dot_net\WebDriver_Task2\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-06-18" time="00:15:54">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Windows\system32" machine-name="LAPTOP" user="Galina" user-domain="Laptop" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\Users\Galina\Dropbox\dot_net\WebDriver_Task2\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" executed="True" result="Failure" success="False" time="54.124" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="WebDriver_Task2" executed="True" result="Failure" success="False" time="54.094" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Failure" success="False" time="54.093" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="MailingPageTests" executed="True" result="Failure" success="False" time="54.088" asserts="0">
+                <results>
+                  <test-case name="WebDriver_Task2.Tests.MailingPageTests.MailOpen" executed="True" result="Error" success="False" time="46.835" asserts="1">
+                    <failure>
+                      <message><![CDATA[System.NullReferenceException : Ссылка на объект не указывает на экземпляр объекта.]]></message>
+                      <stack-trace><![CDATA[в WebDriver_Task2.Tests.MailingPageTests.MailOpen() в c:\Users\Galina\Dropbox\dot_net\WebDriver_Task2\WebDriver_Task2\Tests\MailingPageTests.cs:строка 70
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

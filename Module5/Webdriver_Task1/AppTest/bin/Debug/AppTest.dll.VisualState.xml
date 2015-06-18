@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
-  <TopNode>[0-1007]C:\Users\dzmitry_kratok\Dropbox\dot_net\_Webdriver_Task1\AppTest\bin\Debug\AppTest.dll</TopNode>
-  <SelectedNode>[0-1004]AppTest.Pages.MailingPage.MailOpen</SelectedNode>
+  <TopNode>[0-1007]D:\git_DK\DKratok_Automation\Module5\Webdriver_Task1\AppTest\bin\Debug\AppTest.dll</TopNode>
+  <SelectedNode>[0-1005]AppTest.Pages.MailingPage.IsSent</SelectedNode>
   <ExcludeCategories>false</ExcludeCategories>
   <Nodes>
-    <Node UniqueName="[0-1007]C:\Users\dzmitry_kratok\Dropbox\dot_net\_Webdriver_Task1\AppTest\bin\Debug\AppTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1007]D:\git_DK\DKratok_Automation\Module5\Webdriver_Task1\AppTest\bin\Debug\AppTest.dll" Expanded="true" />
     <Node UniqueName="[0-1008]AppTest" Expanded="true" />
     <Node UniqueName="[0-1000]AppTest.LoginPage" Expanded="true" />
     <Node UniqueName="[0-1009]AppTest.Pages" Expanded="true" />
