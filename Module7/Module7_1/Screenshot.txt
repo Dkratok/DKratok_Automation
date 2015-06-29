@@ -1,0 +1,34 @@
+using System;
+using System.Drawing.Imaging;
+using System.IO;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Firefox;
+ 
+namespace WebDriverExtensions
+{
+    public static class WebElementExtensions
+    {
+        public static string TakeScreenshot(this IWebDriver driver, string prefix)
+        {
+            var fileName = String.Format("{0}{1}{2}", prefix, DateTime.Now.ToString("HHmmss"), ".png");
+            var screenShot = ((ITakesScreenshot)driver).GetScreenshot();
+            screenShot.SaveAsFile(fileName, ImageFormat.Png);
+            return fileName;
+        }
+    }
+ 
+    [TestClass]
+    public class ExtensionUnitTests
+    {
+        [TestMethod]
+        public void TakeScreenShot()
+        {
+            var driver = new FirefoxDriver();
+            driver.Navigate().GoToUrl("data:text/html,Some Text");
+            var fileName = driver.TakeScreenshot("myScreenShot");
+            Assert.IsTrue(File.Exists(fileName));
+            driver.Quit();
+        }
+    }
+}
