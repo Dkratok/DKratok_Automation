@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
   <TopNode>[0-1007]D:\git_DK\DKratok_Automation\Module6\Module6_1\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll</TopNode>
-  <SelectedNode>[0-1005]WebDriver_Task2.Tests.MailingPageTests.MailOpen</SelectedNode>
+  <SelectedNode>[0-1004]WebDriver_Task2.Tests.MailingPageTests.IsSavedasDraft</SelectedNode>
   <ExcludeCategories>false</ExcludeCategories>
   <Nodes>
     <Node UniqueName="[0-1007]D:\git_DK\DKratok_Automation\Module6\Module6_1\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" Expanded="true" />

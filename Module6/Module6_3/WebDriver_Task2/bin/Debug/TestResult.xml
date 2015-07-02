@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\git_DK\DKratok_Automation\Module6\Module6_3\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-07-02" time="13:56:27">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\WINDOWS\system32" machine-name="EPBYMINW2872" user="dzmitry_kratok" user-domain="MINSK" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\git_DK\DKratok_Automation\Module6\Module6_3\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" executed="True" result="Success" success="True" time="25.747" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Module6_3" executed="True" result="Success" success="True" time="25.731" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="SpecFlow" executed="True" result="Success" success="True" time="25.731" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="LoginFeature" description="Login" executed="True" result="Success" success="True" time="25.728" asserts="0">
+                <results>
+                  <test-case name="Module6_3.SpecFlow.LoginFeature.LogInTheMailbox_Failed" description="Log in the mailbox_Failed" executed="True" result="Success" success="True" time="25.396" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

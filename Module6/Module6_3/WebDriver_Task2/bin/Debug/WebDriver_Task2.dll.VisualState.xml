@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1005]D:\git_DK\DKratok_Automation\Module6\Module6_3\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll</TopNode>
+  <SelectedNode>[0-1002]Module6_3.SpecFlow.LoginFeature.LogInTheMailbox_Failed</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1005]D:\git_DK\DKratok_Automation\Module6\Module6_3\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" Expanded="true" />
+    <Node UniqueName="[0-1006]Module6_3" Expanded="true" />
+    <Node UniqueName="[0-1007]Module6_3.SpecFlow" Expanded="true" />
+    <Node UniqueName="[0-1000]Module6_3.SpecFlow.LoginFeature" Expanded="true" />
+    <Node UniqueName="[0-1003]Module6_3.SpecFlow.New_EmailFeature" Expanded="true" />
+  </Nodes>
+</VisualState>

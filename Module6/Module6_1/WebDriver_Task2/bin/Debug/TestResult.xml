@@ -1,28 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="D:\git_DK\DKratok_Automation\Module6\Module6_1\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-06-22" time="12:14:17">
-  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="EPBYMINW2872" user="Dzmitry_Kratok" user-domain="MINSK" />
+<test-results name="D:\git_DK\DKratok_Automation\Module6\Module6_1\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-07-02" time="13:22:49">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\WINDOWS\system32" machine-name="EPBYMINW2872" user="dzmitry_kratok" user-domain="MINSK" />
   <culture-info current-culture="en-US" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="D:\git_DK\DKratok_Automation\Module6\Module6_1\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" executed="True" result="Failure" success="False" time="61.722" asserts="0">
+  <test-suite type="Assembly" name="D:\git_DK\DKratok_Automation\Module6\Module6_1\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" executed="True" result="Success" success="True" time="54.606" asserts="0">
     <results>
-      <test-suite type="Namespace" name="WebDriver_Task2" executed="True" result="Failure" success="False" time="61.721" asserts="0">
+      <test-suite type="Namespace" name="WebDriver_Task2" executed="True" result="Success" success="True" time="54.590" asserts="0">
         <results>
-          <test-suite type="Namespace" name="Tests" executed="True" result="Failure" success="False" time="61.721" asserts="0">
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="54.590" asserts="0">
             <results>
-              <test-suite type="TestFixture" name="MailingPageTests" executed="True" result="Failure" success="False" time="61.721" asserts="0">
+              <test-suite type="TestFixture" name="MailingPageTests" executed="True" result="Success" success="True" time="54.587" asserts="0">
                 <results>
-                  <test-case name="WebDriver_Task2.Tests.MailingPageTests.MailOpen" executed="True" result="Failure" success="False" time="55.721" asserts="2">
-                    <failure>
-                      <message><![CDATA[  Subject is not found
-  Expected string length 9 but was 0. Strings differ at index 0.
-  Expected: "Autotests"
-  But was:  <string.Empty>
-  -----------^
-]]></message>
-                      <stack-trace><![CDATA[at WebDriver_Task2.Tests.MailingPageTests.MailOpen() in d:\git_DK\DKratok_Automation\Module6\Module6_1\WebDriver_Task2\Tests\MailingPageTests.cs:line 67
-]]></stack-trace>
-                    </failure>
-                  </test-case>
+                  <test-case name="WebDriver_Task2.Tests.MailingPageTests.IsSavedasDraft" executed="True" result="Success" success="True" time="47.420" asserts="2" />
                 </results>
               </test-suite>
             </results>
