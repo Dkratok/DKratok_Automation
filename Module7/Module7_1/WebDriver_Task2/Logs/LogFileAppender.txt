@@ -1,0 +1,6 @@
+2015-07-05 13:43:12,749 [TestRunnerThread] INFO  Module7_1.Tests.MailingPageTests Login page is opening
+2015-07-05 13:43:54,833 [TestRunnerThread] INFO  Module7_1.Tests.MailingPageTests New email is writting
+2015-07-05 13:43:56,523 [TestRunnerThread] INFO  Module7_1.Tests.MailingPageTests DraftsLink is clicked
+2015-07-05 13:44:04,876 [TestRunnerThread] INFO  Module7_1.Tests.MailingPageTests New email is created and saved as draft
+2015-07-06 09:50:14,730 [TestRunnerThread] INFO  Module7_1.Tests.LoginPageTests Login page is opening
+2015-07-06 09:50:16,141 [TestRunnerThread] INFO  Module7_1.Tests.LoginPageTests Mailing page is opening

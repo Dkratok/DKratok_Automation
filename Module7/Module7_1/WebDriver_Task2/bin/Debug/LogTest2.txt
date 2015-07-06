@@ -1,0 +1,1 @@
+2015-07-05 13:25:55,841 [TestRunnerThread] INFO  Module7_1.Tests.LoginPageTests Login page is opening

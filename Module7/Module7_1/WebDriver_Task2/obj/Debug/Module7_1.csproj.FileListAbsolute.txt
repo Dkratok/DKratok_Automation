@@ -1,0 +1,15 @@
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll.config
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\bin\Debug\WebDriver_Task2.pdb
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\bin\Debug\log4net.dll
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\bin\Debug\nunit-console-runner.dll
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\bin\Debug\nunit.core.dll
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\bin\Debug\nunit.core.interfaces.dll
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\bin\Debug\nunit.framework.dll
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\bin\Debug\nunit.uiexception.dll
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\bin\Debug\nunit.uikit.dll
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\bin\Debug\nunit.util.dll
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\bin\Debug\nunit.framework.xml
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\obj\Debug\WebDriver_Task2.dll
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\obj\Debug\WebDriver_Task2.pdb
+D:\Mitia\Automation Program 2015\Module7\Module7_1\WebDriver_Task2\obj\Debug\Module7_1.csprojResolveAssemblyReference.cache

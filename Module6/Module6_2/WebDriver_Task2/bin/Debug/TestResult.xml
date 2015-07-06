@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="D:\git_DK\DKratok_Automation\Module6\Module6_2\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-06-29" time="11:28:55">
-  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\WINDOWS\system32" machine-name="EPBYMINW2872" user="Dzmitry_Kratok" user-domain="MINSK" />
+<test-results name="D:\git_DK\DKratok_Automation\Module6\Module6_2\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-07-02" time="18:01:18">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="EPBYMINW2872" user="dzmitry_kratok" user-domain="MINSK" />
   <culture-info current-culture="en-US" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="D:\git_DK\DKratok_Automation\Module6\Module6_2\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" executed="True" result="Success" success="True" time="31.347" asserts="0">
+  <test-suite type="Assembly" name="D:\git_DK\DKratok_Automation\Module6\Module6_2\WebDriver_Task2\bin\Debug\WebDriver_Task2.dll" executed="True" result="Success" success="True" time="36.475" asserts="0">
     <results>
-      <test-suite type="Namespace" name="Module6_2" executed="True" result="Success" success="True" time="31.331" asserts="0">
+      <test-suite type="Namespace" name="Module6_2" executed="True" result="Success" success="True" time="36.460" asserts="0">
         <results>
-          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="31.330" asserts="0">
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="36.459" asserts="0">
             <results>
-              <test-suite type="TestFixture" name="LoginPageTests" executed="True" result="Success" success="True" time="31.327" asserts="0">
+              <test-suite type="TestFixture" name="LoginPageTests" executed="True" result="Success" success="True" time="36.457" asserts="0">
                 <results>
-                  <test-case name="Module6_2.Tests.LoginPageTests.isLogin" executed="True" result="Success" success="True" time="23.811" asserts="1" />
+                  <test-case name="Module6_2.Tests.LoginPageTests.isLogin" executed="True" result="Success" success="True" time="29.431" asserts="1" />
                 </results>
               </test-suite>
             </results>
